@@ -5,3 +5,4 @@ This is a portfolio of my web development projects. Since I am just starting to 
 https://sarkissian321.github.io/portfolio-webpage-project/
 
 # Screenshot of the webpage:
+![sarkissian321 github io_portfolio-webpage-project_ (2)](https://github.com/Sarkissian321/portfolio-webpage-project/assets/142841411/d6cf42b0-efac-4b62-b399-38fb37c114d6)
